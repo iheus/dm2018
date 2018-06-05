@@ -12,3 +12,4 @@ Lecturer: Shuhei Kitamura
 - Data
   - cars.csv
   - cars.txt
+- Class assignments
