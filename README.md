@@ -8,8 +8,11 @@ Lecturer: Shuhei Kitamura
 
 - Lecture slides
 - Jupyter Notebook files
-  - python_basics.ipynb
+  - python_basics.ipynb (written in Python)
+  - R_basics.ipynb (written in R)
 - Data
   - cars.csv
   - cars.txt
+- Applications
+  - scrape_speech.ipynb (written in Python)
 - Class assignments
