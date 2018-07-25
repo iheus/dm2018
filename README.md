@@ -18,6 +18,12 @@ Lecturer: Shuhei Kitamura
   - syuuin_speech_tpp2017.csv
 - Class assignments
 
+### Prerequisite
+
+- You need to install Jupyter Notebook before opening ".ipynb" files. See Python.pdf for more details.
+- You need to install Python before running Python code in Jupyter Notebook. See Python.pdf for more details.
+- You need to install R and IRKernel before running R code in Jupyter Notebook. See R.pdf for more details.
+
 ### Procedure (how to go through the material)
 
 1. Intro.pdf (in slides)
