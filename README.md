@@ -18,26 +18,26 @@ Lecturer: Shuhei Kitamura
   - syuuin_speech_tpp2017.csv
 - Class assignments
 
-## Procedure (how to go through the material)
+### Procedure (how to go through the material)
 
 1. Intro.pdf (in slides)
 2. Version control.pdf (in slides)
 3. Python
-  3-1. Basics 
+  - Basics 
     - Python.pdf (in slides) 
     - python_basics.ipynb
-  3-2. Data cleaning and analysis
+  - Data cleaning and analysis
     - Directory and Data Structure.pdf (in slides)
     - clean_data_py.ipynb (See data_todai-asahi repository)
     - analyze_py.ipynb (See proj_todai-asahi repository)
-  3-3. Application (web scraping)
+  - Application (web scraping)
     - syuuin_speech.ipynb
 4. R
-  4-1. Basics
+  - Basics
     - R.pdf (in slides)
     - R_basics.ipynb
-  4-2. Data cleaning and analysis
+  - Data cleaning and analysis
     - clean_data_R.ipynb (See data_todai-asahi repository)
     - analyze_R.ipynb (See proj_todai-asahi repository)
-  4-3. Application (text analysis)
+  - Application (text analysis)
     - text_analysis_R.ipynb
