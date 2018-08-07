@@ -47,3 +47,8 @@ Lecturer: Shuhei Kitamura
     - analyze_R.ipynb (See proj_todai-asahi repository)
   - Application (text analysis)
     - text_analysis_R.ipynb
+5. LaTeX
+  - Basics
+    - LaTeX.pdf (in slides)
+    - example_paper.tex (See proj_todai-asahi repository)
+    - example_beamer.tex (See proj_todai-asahi repository)
