@@ -1,8 +1,6 @@
 # Data Management
 
-This is the repository of the data management course at OSIPP, Osaka University.
-
-Lecturer: Shuhei Kitamura
+This is the repository for the 2018 data management course at Osaka University.
 
 ### Contents
 
